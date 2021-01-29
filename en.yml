@@ -1,2 +1,3 @@
-add_to_bag: 'Add to bag'
-test.key1: 'Test key created'
+en:
+    group_1.strawberries: Strawberries
+    add_to_bag: 'Add to bag'
