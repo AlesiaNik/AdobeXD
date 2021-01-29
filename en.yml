@@ -1,2 +1,38 @@
-add_to_bag: 'Add to bag'
-add_to_bag: 'legacy translation'
+add_to_bag: 'Add to wallet'
+test.key.main: Grapes
+test.key1: Cart
+artboard_–_1.€_6.00: '€ 6.00'
+artboard_–_1.back: Back
+artboard_–_1.group_2.india: India
+artboard_–_1.€_1.50: '€ 1.50'
+test.key.name1: Back
+artboard_–_1.group_1.strawberries: Strawberries
+artboard_–_1.pay: Pay
+screen_1.€3.00: €3.00
+artboard_–_1.group_2.peaches: Peaches
+artboard_–_1.group_1.1_kg: '1 kg'
+artboard_–_1.carrots: Carrots
+artboard_–_1.peru: Peru
+artboard_–_1.1_kg: '1 kg'
+artboard_–_1.€_3.00: '€ 3.00'
+artboard_–_1.group_2.500_g: '500 g'
+artboard_–_2.save: Save
+artboard_–_1.group_1.€_4.00: '€ 4.00'
+artboard_–_1.500_g: '500 g'
+artboard_–_2.back: Back
+artboard_–_1.group_1.poland: Poland
+artboard_–_2.notifications: Notifications
+artboard_–_1.germany: Germany
+artboard_–_1.pears: Pears
+artboard_–_2.help: Help
+artboard_–_1.spain: Spain
+screen_1.spain: Spain
+artboard_–_1.500_g.33: '{{number}}'
+artboard_–_2.settings: Settings
+artboard_–_2.orders: Orders
+artboard_–_2.favorites: Favorites
+screen_1.sweet_and_fresh_grapes_from_spain.: 'Sweet and fresh grapes from Spain. '
+artboard_–_2.profile_settings: 'Profile settings'
+artboard_–_1.group_2.€_2.00: '€ 2.00'
+screen_1.500_g: '500 g'
+screen_1.1_kg: '1 kg'
